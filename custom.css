@@ -1,0 +1,17 @@
+
+.bluetext{
+  color:red;
+  font-family: Arial;
+  font-size: 56px
+}
+body{
+  background-color: #00FFBC
+}
+.p1 {
+  margin: 35px;
+}
+.p2 {
+  width:50%;
+  background-color:purple;
+  font-family:'Oswald'
+}
